@@ -1,0 +1,49 @@
+$primary-color: #0A9396;
+
+.about {
+    width: 100%;
+    height: 100vh;
+    background-color: #eaeef0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+    .box_avatar {
+        width: 80%;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .references {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        text-align: center;
+        p {
+            font-size: 16px;
+            color: $primary-color;
+            margin: 5px 0;
+        }
+
+        .info_team {
+            font-size: 20px;
+            font-family: 'Kavoon', cursive;;
+        }
+
+        .list_icon {
+            display: flex;
+            justify-content: center;
+            a {
+                font-size: 20px;
+                text-decoration: none;
+                color: $primary-color;
+                margin-right: 5px;
+                &:hover {
+                    color: #198586;
+                }
+            }
+        }
+    }
+}

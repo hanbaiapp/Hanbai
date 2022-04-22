@@ -1,0 +1,5 @@
+@for $i from 1 through 4 {
+    .trans_delay_#{$i} {
+        transition-delay: #{($i - 1) * 0.2}s !important;
+    }
+}

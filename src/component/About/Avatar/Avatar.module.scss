@@ -1,0 +1,40 @@
+$bg-color: #eaeef0;
+$primary-color: #0A9396;
+
+.ava_container {
+    transform: translateY(100px);
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+
+    &.active {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;   
+    position: relative;
+    background: $bg-color;
+    border: 8px solid #eaeef0;
+    box-shadow: -10px -10px 25px rgba(255, 255, 255, 1),
+    10px 10px 25px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img {
+        width: 190px;
+        object-fit: cover;
+    }
+}
+
+.name {
+    font-size: 25px;
+    font-weight: bold;
+    color: $primary-color;
+    text-align: center;
+}
