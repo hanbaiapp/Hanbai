@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hanbai/static/css/main.f7d9eba9.css",
+    "main.js": "/hanbai/static/js/main.17e2f06a.js",
+    "static/js/787.087b64af.chunk.js": "/hanbai/static/js/787.087b64af.chunk.js",
+    "static/media/luc.jpg": "/hanbai/static/media/luc.92fda63486705ba166b0.jpg",
+    "static/media/duy.jpg": "/hanbai/static/media/duy.19d411c145ea0994663a.jpg",
+    "static/media/order2.png": "/hanbai/static/media/order2.ccb46cd1182f916eb42f.png",
+    "static/media/hieu.jpg": "/hanbai/static/media/hieu.699ff12693e5fa75f424.jpg",
+    "static/media/nam.jpg": "/hanbai/static/media/nam.012343b74042b88be3f1.jpg",
+    "static/media/product1.png": "/hanbai/static/media/product1.1ff102fcb17ce5df5204.png",
+    "static/media/product2.png": "/hanbai/static/media/product2.12ac7a49a4ee95e07aed.png",
+    "static/media/order1.png": "/hanbai/static/media/order1.59971cad86a79f69e2c7.png",
+    "static/media/chart1.png": "/hanbai/static/media/chart1.46b7c4c83ab1ff7e9adb.png",
+    "static/media/img_home.svg": "/hanbai/static/media/img_home.55fe6bdb7897790f788f3cef635f084d.svg",
+    "static/media/sheet.svg": "/hanbai/static/media/sheet.d40ac5524fdd0ab097e207dfebeb7028.svg",
+    "index.html": "/hanbai/index.html",
+    "static/media/logo_hanbai.svg": "/hanbai/static/media/logo_hanbai.de74b1956fae4c17bbac7d31ae224497.svg",
+    "main.f7d9eba9.css.map": "/hanbai/static/css/main.f7d9eba9.css.map",
+    "main.17e2f06a.js.map": "/hanbai/static/js/main.17e2f06a.js.map",
+    "787.087b64af.chunk.js.map": "/hanbai/static/js/787.087b64af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7d9eba9.css",
+    "static/js/main.17e2f06a.js"
+  ]
+}
