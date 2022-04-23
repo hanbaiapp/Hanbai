@@ -7,7 +7,7 @@ function Header() {
     const tabs = [
         {
             name: 'Home',
-            link: '/home'
+            link: '/'
         },
         {
             name: 'Description',
